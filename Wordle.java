@@ -4,6 +4,7 @@ public class Wordle {
     public static String[] readDictionary(String filename) {
 		// ...
     }
+    
 
     // Choose a random secret word from the dictionary. 
     // Hint: Pick a random index between 0 and dict.length (not including) using Math.random()
