@@ -4,6 +4,8 @@ public class Wordle {
     public static String[] readDictionary(String filename) {
 		// ...
     }
+
+
     
 
     // Choose a random secret word from the dictionary. 
